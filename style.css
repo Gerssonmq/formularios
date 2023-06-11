@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(205, 247, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border: 4px dashed;
+    background-color: rgba(4, 98, 221, 0.387);
+}
+h2 {
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    
+}
+div {
+  border: 1px rgb(254, 254, 254);
+    border-radius: 3px;
+    padding: 5px 2px 8px 15px ;
+}
+.datos 
+{ 
+background-color: rgba(4, 98, 221, 0.329);
+border: 4px dashed; 
+border-color: rgb(0, 0, 0)
+}
+.linea {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
+  .linea2 {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
+  .linea3 {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
+  .linea4 {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
+  .linea5 {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
+  .linea6 {
+    border-top: 2px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 25px auto 0 auto;
+  }
